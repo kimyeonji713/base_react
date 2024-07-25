@@ -1,5 +1,5 @@
 export const Ex = ({ data }) => {
-  // console.log(data);
+  console.log(data);
   return (
     <div>
       <h2>먹고 싶은 과자</h2>
