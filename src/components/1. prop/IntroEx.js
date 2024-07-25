@@ -1,7 +1,7 @@
 export const IntroEx = ({ name, age }) => {
-  //     console.log(props);
-  //   const name = props.name;
-  //   const age = props.age;
+  // console.log(props);
+  // const name = props.name;
+  // const age = props.age;
 
   //   const { name, age } = props;
   //   console.log(name, age);
